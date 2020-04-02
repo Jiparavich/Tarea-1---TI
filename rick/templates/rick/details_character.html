@@ -101,6 +101,14 @@
   <ul>
             <li><a>NOMBRE PERSONAJE :{{ information.name}}</a></li>
 
+                  <li><a> ESTADO :{{ information.status}}</a></li>
+
+                  <li><a>ESPECIE :{{ information.species}}</a></li>
+
+                  <li><a>TIPO :{{ information.type}}</a></li>
+
+                  <li><a>GENERO:{{ information.gender}}</a></li>
+
 
          <li><a href="/details_location/{{lugares.lugar.id}}" >LUGAR {{ lugares.lugar.name}}</a></li>
          <li><a href="/details_location/{{lugares.origin.id}}">ORIGEN: {{ lugares.origin.name}}</a></li>
@@ -108,6 +116,8 @@
 
 
     </ul>
+            <img class="animated fadeInRight" src= {{ information.image }} alt="Django logo" height="150" width="150">
+
 
           <table class="table">
 

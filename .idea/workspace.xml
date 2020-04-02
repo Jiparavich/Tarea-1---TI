@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ec6ef88-54d8-4b18-ad6a-1a4b34c7aff4" name="Default Changelist" comment="" />
+    <list default="true" id="2ec6ef88-54d8-4b18-ad6a-1a4b34c7aff4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/rick/templates/rick/details_character.html" beforeDir="false" afterPath="$PROJECT_DIR$/rick/templates/rick/details_character.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rick/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rick/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +48,45 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1880966709">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="90" />
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="90" />
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rick/templates/rick/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2311">
+            <state>
               <caret selection-end-line="171" selection-end-column="13" />
               <folding>
                 <element signature="e#2504#2510#0" expanded="true" />
@@ -60,11 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rick/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="282" lean-forward="true" selection-start-line="282" selection-end-line="282" />
+            <state relative-caret-position="210">
+              <caret line="258" column="14" selection-start-line="258" selection-start-column="9" selection-end-line="258" selection-end-column="14" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -87,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rick/templates/rick/search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1559">
-              <caret line="204" lean-forward="true" selection-start-line="204" selection-end-line="204" />
+            <state relative-caret-position="3468">
+              <caret line="204" selection-start-line="204" selection-end-line="204" />
             </state>
           </provider>
         </entry>
@@ -96,8 +131,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rick/templates/rick/details_character.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="514">
-              <caret line="157" selection-start-line="157" selection-end-line="157" />
+            <state relative-caret-position="340">
+              <caret line="112" column="73" selection-start-line="112" selection-start-column="73" selection-end-line="112" selection-end-column="73" />
               <folding>
                 <element signature="e#2506#2512#0" expanded="true" />
               </folding>
@@ -106,9 +141,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rick/templates/rick/details_location.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-289">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+              <folding>
+                <element signature="e#2502#2508#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tarea1/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rick/templates/rick/details_chapter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
+            <state relative-caret-position="3162">
               <caret line="186" selection-start-line="186" selection-end-line="186" />
               <folding>
                 <element signature="e#2502#2508#0" expanded="true" />
@@ -120,8 +176,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rick/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="136">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -145,76 +201,83 @@
       <find>home</find>
       <find>&quot;url&quot;</find>
       <find>SEARCH</find>
+      <find>print</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Tarea1/urls.py" />
-        <option value="$PROJECT_DIR$/Tarea1/settings.py" />
         <option value="$PROJECT_DIR$/rick/templates/rick/chapters.html" />
         <option value="$PROJECT_DIR$/rick/templates/rick/details_location.html" />
         <option value="$PROJECT_DIR$/rick/templates/rick/search" />
         <option value="$PROJECT_DIR$/rick/urls.py" />
         <option value="$PROJECT_DIR$/rick/templates/rick/search.html" />
         <option value="$PROJECT_DIR$/rick/templates/rick/index.html" />
-        <option value="$PROJECT_DIR$/rick/views.py" />
-        <option value="$PROJECT_DIR$/rick/templates/rick/details_character.html" />
         <option value="$PROJECT_DIR$/rick/templates/rick/details_chapter.html" />
+        <option value="$PROJECT_DIR$/rick/templates/rick/details_character.html" />
+        <option value="$PROJECT_DIR$/rick/views.py" />
+        <option value="$PROJECT_DIR$/Tarea1/settings.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1048" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Tarea1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tarea1" type="462c0819:PsiDirectoryNode" />
+              <item name="Tarea-1---TI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tarea-1---TI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Tarea1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tarea1" type="462c0819:PsiDirectoryNode" />
+              <item name="Tarea-1---TI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tarea-1---TI" type="462c0819:PsiDirectoryNode" />
               <item name="rick" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Tarea1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tarea1" type="462c0819:PsiDirectoryNode" />
-              <item name="rick" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tarea1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tarea1" type="462c0819:PsiDirectoryNode" />
+              <item name="Tarea-1---TI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tarea-1---TI" type="462c0819:PsiDirectoryNode" />
               <item name="rick" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tarea-1---TI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tarea-1---TI" type="462c0819:PsiDirectoryNode" />
+              <item name="rick" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="rick" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Tarea1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tarea1" type="462c0819:PsiDirectoryNode" />
+              <item name="Tarea-1---TI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tarea-1---TI" type="462c0819:PsiDirectoryNode" />
               <item name="Tarea1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TI/Tareas/Tarea1" />
+    <property name="last_opened_file_path" value="$USER_HOME$/TI/Tareas/Tarea1" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -260,7 +323,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.49283853" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286119" />
@@ -295,20 +358,7 @@
     <entry file="file://$PROJECT_DIR$/Tarea1/wsgi.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea1/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rick/templates/rick/chapters.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/rick/templates/rick/chapters.html" />
     <entry file="file://$PROJECT_DIR$/Tarea1/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -319,70 +369,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rick/templates/rick/details_location.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-          <folding>
-            <element signature="e#2502#2508#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rick/templates/rick/search">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="138" column="19" lean-forward="true" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
-          <folding>
-            <element signature="e#2504#2510#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/rick/templates/rick/search" />
     <entry file="file://$PROJECT_DIR$/rick/templates/rick/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2311">
+        <state>
           <caret selection-end-line="171" selection-end-column="13" />
           <folding>
             <element signature="e#2504#2510#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rick/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rick/templates/rick/details_chapter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="186" selection-start-line="186" selection-end-line="186" />
-          <folding>
-            <element signature="e#2502#2508#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rick/templates/rick/details_character.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="157" selection-start-line="157" selection-end-line="157" />
-          <folding>
-            <element signature="e#2506#2512#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rick/templates/rick/search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1559">
-          <caret line="204" lean-forward="true" selection-start-line="204" selection-end-line="204" />
         </state>
       </provider>
     </entry>
@@ -396,13 +390,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rick/templates/rick/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3468">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rick/templates/rick/details_chapter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3162">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+          <folding>
+            <element signature="e#2502#2508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rick/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rick/templates/rick/details_character.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="112" column="73" selection-start-line="112" selection-start-column="73" selection-end-line="112" selection-end-column="73" />
+          <folding>
+            <element signature="e#2506#2512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rick/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="282" lean-forward="true" selection-start-line="282" selection-end-line="282" />
+        <state relative-caret-position="210">
+          <caret line="258" column="14" selection-start-line="258" selection-start-column="9" selection-end-line="258" selection-end-column="14" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rick/templates/rick/details_location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="e#2502#2508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tarea1/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
         </state>
       </provider>
     </entry>

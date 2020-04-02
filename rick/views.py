@@ -172,7 +172,6 @@ def search(request):
     variable = str(variable)
 
 
-    print("RECIBI LA VARIABLE ---->{}".format(variable))
 
     ##episodios
     URL = "https://rickandmortyapi.com/api/episode/"
@@ -257,7 +256,7 @@ def search(request):
 
     resultados_characters = []
     for char in characters:
-        print("COMPRANDO VARIABLE {} CON {}".format(variable,char["name"]))
+       # print("COMPRANDO VARIABLE {} CON {}".format(variable,char["name"]))
         if char["name"].lower().find(variable)!=-1:
             resultados_characters.append(char)
 
