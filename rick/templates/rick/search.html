@@ -119,8 +119,8 @@
             {% if characters %}
             {% for character in characters %}
               <tr>
-                <th scope="row">{{ chapter.id }}</th>
-                <td><a href="/details_chapter/{{character.id}}">{{ character}}</a></td>
+                <th scope="row">{{ character.id }}</th>
+                <td><a href="/details_character/{{character.id}}">{{ character}}</a></td>
               </tr>
               {% endfor %}
             {% endif %}
@@ -139,8 +139,8 @@
             {% if locations %}
             {% for location in locations %}
               <tr>
-                <th scope="row">{{ chapter.id }}</th>
-                <td><a href="/details_chapter/{{location.id}}">{{ location}}</a></td>
+                <th scope="row">{{ location.id }}</th>
+                <td><a href="/details_location/{{location.id}}">{{ location}}</a></td>
               </tr>
               {% endfor %}
             {% endif %}

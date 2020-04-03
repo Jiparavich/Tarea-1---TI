@@ -114,7 +114,7 @@
 
             {% for info in residents %}
               <tr>
-                <th scope="row">{{ chapter.id }}</th>
+                <th scope="row">{{ info.id }}</th>
                 <td><a href="/details_character/{{info.id}}">>{{ info.name}}</a></td>
               </tr>
               {% endfor %}
