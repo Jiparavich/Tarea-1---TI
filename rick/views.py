@@ -10,7 +10,7 @@ def index(request):
 
 
     # api-endpoint
-    URL = "https://rickandmortyapi.com/api/episode/"
+    URL = "https://integracion-rick-morty-api.herokuapp.com/api/episode/"
 
     # sending get request and saving the response as response object
     r = requests.get(url=URL)
@@ -50,7 +50,7 @@ def index(request):
 
 def details_chapter(request, id_capitulo):
     # api-endpoint
-    URL = "https://rickandmortyapi.com/api/episode/{}".format(id_capitulo)
+    URL = "https://integracion-rick-morty-api.herokuapp.com/api/episode/{}".format(id_capitulo)
 
     # sending get request and saving the response as response object
     r = requests.get(url=URL)
@@ -79,7 +79,7 @@ def details_chapter(request, id_capitulo):
 
 def details_character(request, id_character):
     # api-endpoint
-    URL = "https://rickandmortyapi.com/api/character/"+str(id_character)
+    URL = "https://integracion-rick-morty-api.herokuapp.com/api/character/"+str(id_character)
 
     # sending get request and saving the response as response object
     r = requests.get(url=URL)
@@ -137,7 +137,7 @@ def details_character(request, id_character):
 
 def details_location(request, id_location):
     # api-endpoint
-    URL = "https://rickandmortyapi.com/api/location/{}".format(id_location)
+    URL = "https://integracion-rick-morty-api.herokuapp.com/api/location/{}".format(id_location)
 
     # sending get request and saving the response as response object
     r = requests.get(url=URL)
@@ -174,7 +174,7 @@ def search(request):
 
 
     ##episodios
-    URL = "https://rickandmortyapi.com/api/episode/"
+    URL = "https://integracion-rick-morty-api.herokuapp.com/api/episode/"
     # sending get request and saving the response as response object
     r = requests.get(url=URL)
     # extracting data in json format
@@ -204,7 +204,7 @@ def search(request):
 
     # PERSONAJES
 
-    URL = "https://rickandmortyapi.com/api/character/"
+    URL = "https://integracion-rick-morty-api.herokuapp.com/api/character/"
     # sending get request and saving the response as response object
     r = requests.get(url=URL)
     # extracting data in json format
@@ -229,7 +229,7 @@ def search(request):
         current_page = data['info']['next']
 
     ##LUGARES
-    URL = "https://rickandmortyapi.com/api/location/"
+    URL = "https://integracion-rick-morty-api.herokuapp.com/api/location/"
     # sending get request and saving the response as response object
     r = requests.get(url=URL)
     # extracting data in json format
